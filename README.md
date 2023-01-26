@@ -1,2 +1,5 @@
 # FrontendMentorProjects
-A combination of Frontend Mentors Projects that I have attempted  
+Projects attempted and completed from Frontend Mentors Website [!https://www.frontendmentor.io/home]
+
+# Projects Completed Are Listed Below:
+- 
