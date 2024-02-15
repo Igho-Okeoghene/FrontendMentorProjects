@@ -5,10 +5,10 @@ Frontend Mentor Website [https://www.frontendmentor.io/home]
 
 # Challenges Completed:
 - Recipe Page
-  - ![](/design/desktop-preview.jpg)
+  ![](./design/recipe.jpg)
   - Solution URL: https://github.com/Igho-Okeoghene/Recipe-pag
   - Live Site URL: https://igho-okeoghene.github.io/Recipe-page/
 - Testimonial Grid
-  - ![](./design/desktop-preview.jpg)
+   ![](./design/testimonial.jpg)
   - Solution URL: [https://github.com/Igho-Okeoghene/testimonial-grid](https://github.com/Igho-Okeoghene/testimonial-grid)
   - Live Site URL: [https://igho-okeoghene.github.io/testimonial-grid/](https://igho-okeoghene.github.io/testimonial-grid/)
