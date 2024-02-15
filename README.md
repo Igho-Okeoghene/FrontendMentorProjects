@@ -7,3 +7,6 @@ Frontend Mentor Website [https://www.frontendmentor.io/home]
 - Recipe Page
   - Solution URL: https://github.com/Igho-Okeoghene/Recipe-pag
   - Live Site URL: https://igho-okeoghene.github.io/Recipe-page/
+- Testimonial Grid
+  - - Solution URL: [https://github.com/Igho-Okeoghene/testimonial-grid](https://github.com/Igho-Okeoghene/testimonial-grid)
+  - - Live Site URL: [https://igho-okeoghene.github.io/testimonial-grid/](https://igho-okeoghene.github.io/testimonial-grid/)
